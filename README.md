@@ -1,1 +1,1 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Sessions is an application facilitating access to mental health therapy through online bookings and video-chat. The app was built with Ruby on Rails and integrates SQL, JavaScript, Ajax, HTML, SaSS/CSS and Bootstrap. Deployed on Heroku and linked to Stripe's online payment platform.
